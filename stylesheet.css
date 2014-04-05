@@ -1,0 +1,182 @@
+#container{
+    width:100%;
+    background-color:#ffffff;
+}
+
+
+#body{
+    background-color:#ffffff;
+    height:auto;
+    width:80%;
+    margin:0 auto;
+    min-width:500px;
+}
+
+#header{
+	background-color:#AD9E8F;
+	color:#ffffff;
+    height:50px;
+    width:100%;
+    margin:0 auto;
+    min-width:500px;
+    text-align:center;
+}
+
+#footer{
+	background-color:#AD9E8F;
+    height:auto;
+    width:80%;
+    margin:0 auto;
+    min-width:500px;
+    text-align:center;
+}
+
+#mainmenu{
+	background-color:#ADBC8F;
+	color:#ffffff;
+	text-decoration:none;
+	float:left;
+	height:1300px;
+    width:20%;
+    margin:0 auto;
+}
+
+#mainContent{
+	background-color:#F0F2F2;
+	float:right;
+	height:1300px;
+    width:80%;
+    margin:0 auto;
+}
+
+.productBox{
+    background-color:#ADE496;
+    height:130px;
+    width:95%;
+    margin:0 auto;
+    padding-top:10px;
+    margin-top:10px;
+    overflow:hidden;
+}
+
+.productThumb{
+    background-color:#364947;
+    height:auto;
+    width:110px;
+    margin-top:10px;
+    margin-left:20px;
+    float:left;
+}
+
+.productTitle{
+    background-color:#EEEEE9;
+    height:110px;
+    width:65%;
+    margin-top:10px;
+    margin-left:180px;
+    font-size:25px;
+    overflow:hidden;
+}
+
+.productDetails{
+    background-color:#ffffff;
+    margin-top:10px;
+    height:20px;
+    width:62%;
+    margin-left:200px;
+    font-size:16px;
+    text-align:right;
+    padding-right:10px;
+    overflow:hidden;
+}
+
+.productDesc{
+	background-color:#ffffff;
+    height:200px;
+    width:95%;
+    margin-top:10px;
+    margin-left:20px;
+    font-size:25px;
+    overflow:hidden;
+}
+
+.buyProduct{
+	background-color:#ffffff;
+    height:100px;
+    width:95%;
+    margin-top:10px;
+    margin-left:20px;
+    font-size:25px;
+    overflow:hidden;
+}
+
+/** Shopping Cart **/
+#cartProductBox{
+	background-color:#ffffff;
+    height:80px;
+    width:95%;
+    margin:0 auto;
+    padding-top:10px;
+    overflow:hidden;
+}
+
+#cartProductTitle{
+	background-color:#B7B7B7;
+    height:30px;
+    width:98%;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:10px;
+    font-size:30px;
+    overflow:hidden;
+    text-align:right;
+}
+
+#cartProductPrice{
+	background-color:#AEAEAE;
+    height:25px;
+    width:98%;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:10px;
+    font-size:23px;
+    overflow:hidden;
+    text-align:right;
+}
+
+#cartProductActions{
+	background-color:#E3F5D4;
+    height:25px;
+    width:98%;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:10px;
+    font-size:16px;
+    overflow:hidden;
+    text-align:right;
+}
+
+#cartTotalBox{
+	background-color:#B9B29E;
+    height:200px;
+    width:98%;
+    margin-top:20px;
+    margin-left:0px;
+    margin-right:10px;
+    font-size:30px;
+    overflow:hidden;
+    text-align:right;
+}
+
+/** Contact us page **/
+#form{
+	text-align:center;
+}
+
+#orders td, #orders th{
+border:1px solid #ADD3FF;
+padding:10px;
+}
+#orders th {
+background-color: #E7E1C7;
+}

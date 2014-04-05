@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<careers title="Join our Team">
+	<message>
+		The Adventure Store is Hiring. If you're interested in a position, please use the contact us page to tell us about yourself.
+	</message>
+
+  <job>
+    <title>Light Sabre Engineer</title>
+    <para>Help build our light sabres</para>
+    <para>5+ years of Jedi Apprenticeship</para>
+    <para>Expert knowledge of Light Sabre construction</para>
+  </job>
+  <job>
+    <title>Wizard</title>
+    <para>Wizards will help create new potions</para>
+    <para>PhD in Wizardry required</para>
+    <para>20+ years experience as a Wizard</para>
+  </job>
+  <job>
+    <title>Security Guard</title>
+    <para>We need a Security Guard to protect our top secret headquarters</para>
+    <para>Must have prior experience flying spacecraft</para>
+    <para>Anti-Jedi mind trick techniques training is required</para>
+  </job>
+  <job>
+    <title>Jet Pack Tester</title>
+    <para>Jet pack tester will be responsible for testing our jet packs</para>
+    <para>Must be a jet pack enthusiast</para>
+    <para>Must have a titanium re-enforced skeleton and be immune to injuries</para>
+  </job>
+  <job>
+    <title>VCR Repair Technician</title>
+    <para>We still use VCRs here at The Adventure Store so we need someone who can fix them</para>
+    <para>Must have 3+ years experience in the VCR Repair industry</para>
+  </job>
+</careers>
